@@ -2,7 +2,7 @@
 
 namespace Adon988\UrlFriendly;
 
-//Url fraiendly: Generate a friendly URL slug from string 
+//Url friendly: Generate a friendly URL slug from string
 class UrlFriendly
 {
 
